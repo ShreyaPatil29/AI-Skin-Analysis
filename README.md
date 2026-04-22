@@ -44,3 +44,10 @@ AI-powered skin analysis web application built using MERN Stack, Gemini API, Goo
 cd Backend
 npm install
 node server.js
+
+
+### Frontend
+
+cd Frontend
+npm install
+npm run dev
