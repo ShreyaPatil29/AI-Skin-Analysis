@@ -1,0 +1,23 @@
+/* JsonViewer.css */
+
+.json-viewer {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  overflow-x: auto;
+}
+
+.json-viewer ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.json-viewer li {
+  margin-bottom: 5px;
+}
+
+.json-viewer strong {
+  color: #333;
+}
